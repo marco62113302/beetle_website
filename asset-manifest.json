@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/beetle_website/static/css/main.bfaa73a2.css",
-    "main.js": "/beetle_website/static/js/main.32d3e9a1.js",
+    "main.js": "/beetle_website/static/js/main.f70de936.js",
     "index.html": "/beetle_website/index.html",
     "main.bfaa73a2.css.map": "/beetle_website/static/css/main.bfaa73a2.css.map",
-    "main.32d3e9a1.js.map": "/beetle_website/static/js/main.32d3e9a1.js.map"
+    "main.f70de936.js.map": "/beetle_website/static/js/main.f70de936.js.map"
   },
   "entrypoints": [
     "static/css/main.bfaa73a2.css",
-    "static/js/main.32d3e9a1.js"
+    "static/js/main.f70de936.js"
   ]
 }
